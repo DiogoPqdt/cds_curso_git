@@ -361,6 +361,7 @@ widgetsnbextension @ file:///C:/b/abs_882k4_4kdf/croot/widgetsnbextension_167931
 win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
 wrapt @ file:///C:/ci_311/wrapt_1676432805090/work
 xarray @ file:///C:/b/abs_5bkjiynp4e/croot/xarray_1689041498548/work
+XlsxWriter==3.1.7
 xlwings @ file:///C:/ci_311_rebuilds/xlwings_1679013429160/work
 xyzservices @ file:///C:/ci_311/xyzservices_1676434829315/work
 y-py @ file:///C:/b/abs_b7f5go6r0j/croot/y-py_1683662173571/work
