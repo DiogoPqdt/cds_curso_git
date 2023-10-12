@@ -268,8 +268,8 @@ def to_excel(df):
     worksheet = writer.sheets["Sheet1"]
 
     worksheet.set_column("A:A", None)
-
-    writer.save()
+       
+    writer.close()
 
     processed_data = output.getvalue()
 
